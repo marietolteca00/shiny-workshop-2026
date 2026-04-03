@@ -1,0 +1,1 @@
+*This app is maintained by [Marie Tolteca](https://marietolteca00.github.io/) and is updated as needed for teaching purposes. Please report [any issues to Sam Csik](https://github.com/samanthacsik/EDS-296-shiny-apps/issues). Source code can be found on [GitHub](https://github.com/samanthacsik/EDS-296-shiny-apps).*
