@@ -1,5 +1,8 @@
 ui <- navbarPage(
   
+  # CSS File
+  theme = "app-fresh-theme.css",
+  
   title = "LTER Animal Data Explorer",
   
   # (Page 1) intro tabPanel ----
